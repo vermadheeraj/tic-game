@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tic-game/static/css/main.2ddfa566.css",
+    "main.js": "/tic-game/static/js/main.ac5b2e01.js",
+    "index.html": "/tic-game/index.html",
+    "main.2ddfa566.css.map": "/tic-game/static/css/main.2ddfa566.css.map",
+    "main.ac5b2e01.js.map": "/tic-game/static/js/main.ac5b2e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ddfa566.css",
+    "static/js/main.ac5b2e01.js"
+  ]
+}
